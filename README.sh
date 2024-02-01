@@ -1,9 +1,8 @@
-# Scripts used to design a 50K custom SNP array for Pseudophryne corroboree 
-# 
-# Mikaeylah Davidson, 2023
+# Mikaeylah Davidson, 2023 
+
+# scripts used to design a 50K custom SNP array for Pseudophryne corroboree 
 
 # all analysis was run on The Univeristy of Melbournes HPC 'SPARTAN'
-#
 
 # scripts are in numerical order 
 # slurm jobs referenced throughout scripts are in alphabetical order 
